@@ -1,0 +1,14 @@
+DATABASE C:\Program Files (x86)\USGS\Phreeqc Interactive 3.4.0-12927\database\llnl.dat
+SOLUTION 1 Formation Water
+    temp      25
+    pH        7.5 charge
+    pe        4
+    redox     pe
+    units     mg/kgw
+    density   1
+    Ca        132
+    Cl(-1)    18174
+    K         393
+    Mg        152
+    Na        11008
+    -water    1 # kg
